@@ -16,3 +16,6 @@ print(resultado)
 
 resultado = "telefone" in contatos["giovanna@gmail.com"]  # True
 print(resultado)
+
+resultado = "método" in contatos
+print(resultado)
